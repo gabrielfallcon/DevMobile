@@ -6,6 +6,7 @@ public class Calculadora {
 
         System.out.println("A soma dos numeros digitados é: " + (primeiroValor + segundoValor));
         System.out.println("A subtração dos numeros digitados é: " + (primeiroValor - segundoValor));
+        System.out.println("A multiplacão dos numeros digitados é: " + (primeiroValor * segundoValor));
     }
 
 }
