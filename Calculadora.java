@@ -5,7 +5,7 @@ public class Calculadora {
         int segundoValor = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo numero"));
 
         System.out.println("A soma dos numeros digitados é: " + (primeiroValor + segundoValor));
-        
+        System.out.println("A subtração dos numeros digitados é: " + (primeiroValor - segundoValor));
     }
 
 }
